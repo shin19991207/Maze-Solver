@@ -1,5 +1,5 @@
 # Maze-Solver
-A maze solving algorithm in python with BFS that finds the shortest solution to Robert Abbott's Alice Mazes (https://www.logicmazes.com/alice.html).
+A maze solving algorithm in python with BFS that finds the shortest solution to Robert Abbott's Alice Mazes (https://www.logicmazes.com/alice.html), given an input text file representation of the maze.
 
 ## Input Text File Representation of an Alice Maze
 - The location of a cell in the maze should be written in the format *(row#, column#)*. Both row number and column number start from 0.
@@ -26,7 +26,10 @@ Each cell representation is separated by a single space.
   – If there is more than one arrow in a cell, separate each direction with a single comma. The order does not matter.
   – If the cell is the goal location, simply write *"goal"* (without the quotation marks).
   
-- An example representation of [this small maze]() is as below:
+- An example representation of [this small maze](https://github.com/shin19991207/Maze-Solver/blob/main/docs/example_maze.png) is as below:
+
+  <img src="https://github.com/shin19991207/Maze-Solver/blob/main/docs/example_maze.png" width="200">
+  
   ```
   3
   s=(2,0)
