@@ -38,3 +38,6 @@ Each cell representation is separated by a single space.
   b:(u) b:(u) b:(dl) 
   b:(u,r) b:(r) b:(u)
   ```
+
+## Design and Tests
+Read the implementation of the algorithm and test cases [here](https://github.com/shin19991207/Maze-Solver/blob/main/Q1.pdf)
