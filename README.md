@@ -12,16 +12,16 @@ Each cell representation is separated by a single space.
   – *color* should be one of b, r, or y, which represents black, red, or yellow, respectively.
   – There are 8 possible directions and each should be written as one of the following abbr.
   
-| abbr. | description |
-| ----- | ----------- |
-| l | left |
-| r | right |
-| u | up |
-| d | down |
-| ur | up right|
-| ul | up left |
-| dr | down right |
-| dl | down left |
+  | abbr. | description |
+  | ----- | ----------- |
+  | l | left |
+  | r | right |
+  | u | up |
+  | d | down |
+  | ur | up right|
+  | ul | up left |
+  | dr | down right |
+  | dl | down left |
 
   – If there is more than one arrow in a cell, separate each direction with a single comma. The order does not matter.
   – If the cell is the goal location, simply write *"goal"* (without the quotation marks).
