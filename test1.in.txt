@@ -1,0 +1,6 @@
+3
+s=(2,0)
+g=(0,1)
+r:(r) goal r:(dl)
+b:(r) y:(u) b:(dl)
+b:(u,r) b:(r) y:(u)
