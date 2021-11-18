@@ -40,4 +40,4 @@ Each cell representation is separated by a single space.
   ```
 
 ## Design and Tests
-Read the implementation of the algorithm and test cases [here](https://github.com/shin19991207/Maze-Solver/blob/main/Q1.pdf)
+Read the implementation of the algorithm and test cases [here](https://github.com/shin19991207/Maze-Solver/blob/main/Q1.pdf) and get a visulization to the test mazes [here](https://github.com/shin19991207/Maze-Solver/blob/main/docs).
